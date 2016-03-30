@@ -1,5 +1,7 @@
 # electron-quick-start
 
+[![Join the chat at https://gitter.im/db2k/Fontizer](https://badges.gitter.im/db2k/Fontizer.svg)](https://gitter.im/db2k/Fontizer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Clone and run for a quick way to see an Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
